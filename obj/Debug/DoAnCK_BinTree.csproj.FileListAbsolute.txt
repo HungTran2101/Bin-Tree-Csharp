@@ -18,3 +18,13 @@ D:\DoAnCK_BinTree\obj\Debug\DoAnCK_BinTree.csproj.GenerateResource.cache
 D:\DoAnCK_BinTree\obj\Debug\DoAnCK_BinTree.csproj.CoreCompileInputs.cache
 D:\DoAnCK_BinTree\obj\Debug\DoAnCK_BinTree.exe
 D:\DoAnCK_BinTree\obj\Debug\DoAnCK_BinTree.pdb
+D:\.ProjectPractise\Bin-Tree-Csharp\bin\Debug\DoAnCK_BinTree.exe.config
+D:\.ProjectPractise\Bin-Tree-Csharp\bin\Debug\DoAnCK_BinTree.exe
+D:\.ProjectPractise\Bin-Tree-Csharp\bin\Debug\DoAnCK_BinTree.pdb
+D:\.ProjectPractise\Bin-Tree-Csharp\obj\Debug\DoAnCK_BinTree.csproj.AssemblyReference.cache
+D:\.ProjectPractise\Bin-Tree-Csharp\obj\Debug\DoAnCK_BinTree.Form1.resources
+D:\.ProjectPractise\Bin-Tree-Csharp\obj\Debug\DoAnCK_BinTree.Properties.Resources.resources
+D:\.ProjectPractise\Bin-Tree-Csharp\obj\Debug\DoAnCK_BinTree.csproj.GenerateResource.cache
+D:\.ProjectPractise\Bin-Tree-Csharp\obj\Debug\DoAnCK_BinTree.csproj.CoreCompileInputs.cache
+D:\.ProjectPractise\Bin-Tree-Csharp\obj\Debug\DoAnCK_BinTree.exe
+D:\.ProjectPractise\Bin-Tree-Csharp\obj\Debug\DoAnCK_BinTree.pdb
